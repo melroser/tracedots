@@ -1,2 +1,6 @@
-# tracedots
-A command line utility for visualizing how your dot files are being sourced.
+# TraceDots
+
+
+A command line utility for visualizing which dot files are being sourced and in what order.
+
+
